@@ -4,9 +4,9 @@
 
 
 ## 🚧 Current Project: **[Still looking for a perfect name…]**  
-"Ryota, a boy trapped in grief after losing his parents, embarks on a journey through seven symbolic dream worlds to confront his inner demons, discovering that true healing lies in embracing vulnerability and transforming pain into self-empowerment."
+"working on it..."
 
-- **Progress:** 1% code (still learning the fucking c#), 30% self-doubt, 69% cat videos.  
+- **Progress:** 1% code (still learning the fucking c#).
 - **Demo:** *"Coming never... "*  
 - **If you find a bug, pretend its a feature (jk).**  
 - **Linktree: [Linktree short-link](https://tr.ee/gtQ7zr)**  
