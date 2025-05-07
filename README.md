@@ -1,6 +1,5 @@
 ## => About me:
-**(Not yet) Professional Code Jester C# Soulforged Warlock :3**  
-*(supported by: Caffeine & regret).*
+**(Not yet) Professional Code Jester C# Soulforged Warlock :3**
 
 
 ## 🚧 Current Project: **[Still looking for a perfect name…]**  
