@@ -5,7 +5,7 @@
 ## 🚧 Current Project: **[Still looking for a perfect name…]**  
 "working on it..."
 
-› **Progress:** 1% code (still learning the fucking c#).
+› **Progress:** 1% code (still learning the fucking C++++).
 › **Demo:** *"Coming never... "*  
 › **If you find a bug, pretend its a feature (jk).**  
 › **full profile: https://fems.lol/thevirgindev**
