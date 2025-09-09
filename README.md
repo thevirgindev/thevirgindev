@@ -3,14 +3,12 @@
 
 
 ## 🚧 Current Project: **[Still looking for a perfect name…]**  
-"working on it..."
+"working on it secretly tho..."
 
-› **Progress:** 1% code (still learning the fucking C++++).
+› **Progress:** 2% code (still learning the fucking C++++).
 › **Demo:** *"Coming never... "*  
 › **If you find a bug, pretend its a feature (jk).**  
 › **full profile: https://fems.lol/thevirgindev**
-› **Linktree: [Linktree short-link](https://tr.ee/gtQ7zr)**  
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/2JVtWDFSNU) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thevirgindev) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/thevirgindev) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/thevirgindev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_thevirgindev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCLlB-GCCBovA_BHMe44rccQ) 
