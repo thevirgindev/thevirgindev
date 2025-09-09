@@ -6,8 +6,7 @@
 "working on it secretly tho..."
 
 › **Progress:** 2% code (still learning the fucking C++++).
-› **Demo:** *"Coming never... "*  
-› **If you find a bug, pretend its a feature (jk).**  
+› **Demo:** *"Coming never... "*
 › **full profile: https://fems.lol/thevirgindev**
 
 ## 🌐 Socials:
